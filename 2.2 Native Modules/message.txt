@@ -1,0 +1,4 @@
+hello this is the message to be stored in new file message.txt
+
+
+hello this is newly added to be read
